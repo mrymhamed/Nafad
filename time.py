@@ -18,3 +18,6 @@ if (0<=h1 <=23) and (0 <= h2 <= 23) and (0 <= m1 <= 59) and (0 <= m2 <= 59):
 
 else:
     print("Invaild input ")
+"""
+123
+"""
